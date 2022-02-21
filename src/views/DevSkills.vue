@@ -1,8 +1,9 @@
 <template>
-  <div class="devskills">
-    <br>
-    <h3>Skills in depth</h3>               
-    <hr><br><br>
+<div class="container">
+    <div id="skills" class="my-4">
+      <h3>Skills in depth</h3>
+      <hr />
+    </div>
   <div class="row">
     <div class="row">
       <div class="col-md-6">

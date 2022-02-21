@@ -1,8 +1,9 @@
 <template>
-  <div class="work"> 
-    <br>             
-    <h3>Projects already done</h3>                
-    <hr><br><br>
+  <div class="container"> 
+    <div id="work" class="my-4">
+      <h3>Projects already done</h3>
+      <hr />
+    </div>
     <div class="row" style="margin:20px;">
             <Project
               v-for="project in projects"
